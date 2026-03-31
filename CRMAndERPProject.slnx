@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Src/" />
+  <Folder Name="/Src/BuildingBlocks/">
+    <Project Path="Application/Application.csproj" />
+  </Folder>
+  <Folder Name="/Src/Gateway/">
+    <Project Path="CRMAndERPProject.API/API.csproj" />
+  </Folder>
+  <Folder Name="/Src/Modules/">
+    <Project Path="CRMAndERPProject.CRM/CRM.csproj" />
+    <Project Path="CRMAndERPProject.ERP/ERP.csproj" />
+  </Folder>
+  <Folder Name="/Src/Shared/">
+    <Project Path="SharedKernel/SharedKernel.csproj" />
+  </Folder>
+</Solution>
