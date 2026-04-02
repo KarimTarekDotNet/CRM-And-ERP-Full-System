@@ -4,11 +4,11 @@
     <Project Path="Application/Application.csproj" />
   </Folder>
   <Folder Name="/Src/Gateway/">
-    <Project Path="CRMAndERPProject.API/API.csproj" />
+    <Project Path="API/API.csproj" Id="2252f13a-b5e4-4c11-ac5c-485f5df2042e" />
   </Folder>
   <Folder Name="/Src/Modules/">
-    <Project Path="CRMAndERPProject.CRM/CRM.csproj" />
-    <Project Path="CRMAndERPProject.ERP/ERP.csproj" />
+    <Project Path="CRM/CRM.csproj" Id="17b5ab78-6370-49da-a3f3-c3e62f36b7e4" />
+    <Project Path="ERP/ERP.csproj" Id="4d6e547f-23ab-4738-bc16-da8da4b9de04" />
   </Folder>
   <Folder Name="/Src/Shared/">
     <Project Path="SharedKernel/SharedKernel.csproj" />
